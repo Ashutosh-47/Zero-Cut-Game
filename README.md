@@ -2,7 +2,7 @@
 
 Play Amazing Responsive Zero-Cut Game
 
-Site Link - https://fancy-syrniki-276f39.netlify.app/
+Site Link - https://harmonious-llama-1ff55d.netlify.app/
 
 Tools  :  HTML  ,  CSS   ,  JavaScript .
 
