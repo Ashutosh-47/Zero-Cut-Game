@@ -1,6 +1,7 @@
  
 let point = new Audio("Aim.mp3") ;
 let finish = new Audio("GameOver.mp3") ;
+let draw = new Audio("game-lose.mp3") ;
 
 const aim = document.querySelectorAll('.aim') ;
 
@@ -84,7 +85,7 @@ const findWinner = function () {
     game.style.display = 'none' ;
     result.style.display = 'block';
     result.classList.add('ok');
-    p.innerHTML = `<b><i>The winner is  Player ( ${AllText[ e[1]].innerText} ) 🎉🎉😎😎</i></b>`
+    p.innerHTML = `<b><i>The winner is Player- ${AllText[ e[1]].innerText}  🎉🎉😎😎</i></b>`
     }
     
     else {
@@ -94,6 +95,7 @@ if ( flag == false  && cnt == 9 ) {
     game.style.display = 'none' ;
     result.style.display = 'block';
     result.classList.add('o');
+    draw.play();
     p.innerHTML = `<b><i> The Game is Draw 😪</i></b>`
 }
     }
