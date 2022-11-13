@@ -109,7 +109,7 @@ cursor: pointer;
 }
 .active{
     margin: 1vw;
-    background-color:#34568B;
+    background-color:red;
     border-radius: 5vw;
     text-align: center;
     padding: 0.5vw;
