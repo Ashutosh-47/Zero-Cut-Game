@@ -2,7 +2,7 @@
 
 Play Amazing Responsive Zero-Cut Game
 
-Site Link - https://prismatic-macaron-e54eda.netlify.app/
+Site Link - https://melodious-pie-0692c7.netlify.app/
 
 Tools  :  HTML  ,  CSS   ,  JavaScript .
 
