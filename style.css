@@ -6,6 +6,11 @@
 
 body{
 background-color:#34568B;
+background-image: url("put1.webp");
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+width: 100vw;
 }
 
 .popup{
