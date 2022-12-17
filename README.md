@@ -2,8 +2,6 @@
 
 Play Amazing Responsive Zero-Cut Game
 
-Site Link - https://dapper-custard-502121.netlify.app/
-
 Tools  :  HTML  ,  CSS   ,  JavaScript .
 
 Zero-Cut Game
